@@ -19,3 +19,9 @@ p.paragraph {
     color: black;
     background-color: peachpuff;
 }
+li {
+    background-color: peachpuff;
+    color: red;
+    font-size: 34px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
